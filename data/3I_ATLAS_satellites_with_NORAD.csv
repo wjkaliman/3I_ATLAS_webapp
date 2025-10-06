@@ -1,0 +1,2 @@
+Name,NORAD_ID,COSPAR_ID,Operator,Mission_Type,Launch_Date_UTC,Current_Location,Earth_TLE_Available,Notes,3I_ATLAS_View_Utility
+Hubble Space Telescope (HST),20580,1990-037B,NASA/ESA,Space telescope,1990-04-24,Low Earth orbit (~540 km),True,Operational; frequent TLEs available.,High (HST already observing)
