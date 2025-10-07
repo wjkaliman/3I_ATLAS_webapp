@@ -1,2 +1,14 @@
 Name,NORAD_ID,COSPAR_ID,Operator,Mission_Type,Launch_Date_UTC,Current_Location,Earth_TLE_Available,Notes,3I_ATLAS_View_Utility
-Hubble Space Telescope (HST),20580,1990-037B,NASA/ESA,Space telescope,1990-04-24,Low Earth orbit (~540 km),True,Operational; frequent TLEs available.,High (HST already observing)
+Mars Express,27816,2003-022A,ESA,Mars orbiter,6/2/2003,Mars orbit,FALSE,"Carries HRSC, MARSIS.",High (favorable geometry in early Oct 2025)
+Mars Reconnaissance Orbiter (MRO),28788,2005-029A,NASA/JPL,Mars orbiter,8/12/2005,Mars orbit,FALSE,"Carries HiRISE, CRISM, MCS.",High (favorable geometry in early Oct 2025)
+MAVEN,39378,2013-063A,NASA/GSFC,Mars orbiter,11/18/2013,Mars orbit,FALSE,Upper-atmosphere and ionosphere studies.,High (favorable geometry in early Oct 2025)
+ExoMars Trace Gas Orbiter (TGO),41388,2016-017A,ESA/Roscosmos,Mars orbiter,3/14/2016,Mars orbit,FALSE,Atmospheric trace gases; CaSSIS camera.,High (favorable geometry in early Oct 2025)
+Tianwen-1 Orbiter,45935,2020-049A,CNSA,Mars orbiter,7/23/2020,Mars orbit,FALSE,Zhurong rover delivered; orbiter continues.,High (favorable geometry in early Oct 2025)
+Emirates Mars Mission 'Hope',45918,2020-047A,MBRSC (UAE),Mars orbiter,7/19/2020,Mars orbit,FALSE,"EXI, EMIRS, EMUS instruments.",High (favorable geometry in early Oct 2025)
+Hubble Space Telescope (HST),20580,1990-037B,NASA/ESA,Space telescope,4/24/1990,Low Earth orbit (~540 km),TRUE,Operational; frequent TLEs available.,High (HST already observing)
+James Webb Space Telescope (JWST),50463,2021-130A,NASA/ESA/CSA,Space telescope,12/25/2021,Sun–Earth L2 halo,TRUE,TLE-like elements provided; not in Earth orbit.,"High (JWST capable, geometry-dependent)"
+Juno,37773,2011-040A,NASA/JPL,Jupiter orbiter,8/5/2011,Jupiter neighborhood (heliocentric path),FALSE,Polar orbits around Jupiter since 2016.,Medium (line-of-sight constraints)
+JUICE (Jupiter Icy Moons Explorer),56176,2023-053A,ESA,Jupiter system mission,4/14/2023,Heliocentric cruise to Jupiter,FALSE,Gravity assists en route; science cruise.,Medium (geometry dependent)
+Psyche,58049,2023-157A,NASA/ASU/JPL,Asteroid orbiter (16 Psyche),10/13/2023,Heliocentric cruise to main belt,FALSE,Solar electric propulsion; Hall thrusters.,Medium (geometry dependent)
+Solar Orbiter,45167,2020-010A,ESA/NASA,Heliophysics,2/10/2020,Heliocentric orbit (inner solar system),FALSE,In-situ and remote sensing of the Sun.,Medium (good solar elongations)
+Lucy,49328,2021-093A,NASA/GSFC/SwRI,Asteroid flyby (Trojans),10/16/2021,Heliocentric cruise (Jupiter Trojans),FALSE,Multiple Trojan flybys planned.,Unknown_
